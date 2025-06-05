@@ -1,2 +1,5 @@
 env
 .env
+__pycache__
+./__pycache__
+./interview_question/__pycache__
